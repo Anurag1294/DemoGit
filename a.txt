@@ -1,2 +1,5 @@
 This is file - A
 
+Added new line after adding to Git Repo
+THis is file - A
+
